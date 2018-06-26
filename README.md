@@ -1,6 +1,6 @@
 # Personal Air Timeline
 
-A small static website in Angular to tinker with air pollution data in the SaveOurAir project
+A small static website in Angular to tinker with air pollution data in the SaveOurAir project.
 
 ## Install
 
